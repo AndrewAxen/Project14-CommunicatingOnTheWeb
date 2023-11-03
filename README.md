@@ -2,9 +2,7 @@
 
 ## Requirements:
 
-**Option One**
-
-or this project, you will be adding something we’ve studied this week to your personal web page. This makes the code yours, and can be an example of your knowledge. There doesn’t necessarily have to be a purpose for what you choose to add; in some ways you simply want to show off your skills to a potential employer. Choose from:
+For this project, you will be adding something we’ve studied this week to your personal web page. This makes the code yours, and can be an example of your knowledge. There doesn’t necessarily have to be a purpose for what you choose to add; in some ways you simply want to show off your skills to a potential employer. Choose from:
 
 - Leaflet
 - Asynchronous functions
